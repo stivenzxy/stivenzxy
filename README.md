@@ -1,10 +1,16 @@
-# Stivenzxy
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=bb9af7&background=0D111700&vCenter=true&width=800&lines=Welcome+to+my+profile;>_+" alt="Typing SVG"/></a>
 
-Software Developer focused on Backend, with a well-rounded Frontend background. Specialized in API design, system architecture, and process orchestration.
+```bash
+$ whoami
+Stivenzxy - [Stiven Pérez]
 
+$ cat profile.txt
+> Systems Engineer specializing in Backend Development, System Architecture, and Process Orchestration.
+> Experienced in designing scalable APIs, implementing Clean Architecture, and automating complex business flows.
+```
 ## 🛠 Tech Stack
 
-### Backend (Primary Focus)
+### Backend
 ![.NET](https://img.shields.io/badge/.NET_6+-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
@@ -20,16 +26,51 @@ Software Developer focused on Backend, with a well-rounded Frontend background. 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-### Cloud, Tools & Architecture
-![Azure](https://img.shields.io/badge/Microsoft_Azure-%230089D6.svg?style=flat&logo=microsoft-azure&logoColor=white)
+### Infrastructure & DevOps
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-%230089D6.svg?style=flat&logo=microsoft&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+### Architecture, Tools & BPM
 ![Camunda](https://img.shields.io/badge/Camunda_7-%23000000.svg?style=flat&logo=camunda&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure.svg?style=flat&logo=swagger&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFFFFF?style=flat&logo=firebase&logoColor=orange)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
 ## ⚙️ Current Focus
-* Software architecture and design patterns (Clean Architecture, GRASP).
-* Performance optimization in relational and NoSQL databases.
+* Software architecture and design patterns (Clean Architecture, GRASP, SOLID).
+* DevOps and infrastructure management.
 * Business process automation and modeling (BPMN).
 
+
+## ⚡ Engineering Approach
+
+- Design before code.
+- Clean Architecture as default way to implement code.
+- Systems should scale, evolve, and be observable.
+
+
+## 🧰 Additional Tools & Technologies
+> Git, REST, Swagger, Microservices, Linux CLI, CI/CD pipelines, K8s, and more.
+
+
+## 📫 Contact
+
+- GitHub: https://github.com/stivenzxy
+- LinkedIn: https://www.linkedin.com/in/stiven-perezx/
+- Email: jesuspereztorres420@gmail.com,
+
+
 ## 📊 GitHub Stats
-[![Stivenzxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stivenzxy)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=stivenzxy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stivenzxy&layout=compact&theme=tokyonight&hide=G-code&hide_border=true" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
