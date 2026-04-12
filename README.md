@@ -2,7 +2,7 @@
 
 ```bash
 $ whoami
-Stivenzxy - [Stiven Pérez]
+Stivenzxy - [Estiven Pérez]
 
 $ cat profile.txt
 > Systems Engineer specializing in Backend Development, System Architecture, and Process Orchestration.
